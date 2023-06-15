@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
