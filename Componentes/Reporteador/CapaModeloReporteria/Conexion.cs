@@ -13,7 +13,7 @@ namespace CapaModeloReporteria
         public OdbcConnection conexion()
         {
 
-            OdbcConnection conexion = new OdbcConnection("Dsn=sig");
+            OdbcConnection conexion = new OdbcConnection("Dsn=poli");
             try
             {
                 conexion.Open();

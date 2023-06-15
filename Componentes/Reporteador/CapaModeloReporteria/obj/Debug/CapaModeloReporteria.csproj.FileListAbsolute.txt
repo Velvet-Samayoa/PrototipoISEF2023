@@ -4,3 +4,9 @@ C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaModeloReporteria\
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb

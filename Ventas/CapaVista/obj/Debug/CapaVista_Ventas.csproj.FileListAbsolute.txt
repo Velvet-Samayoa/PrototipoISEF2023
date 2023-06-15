@@ -65,7 +65,6 @@ C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaVista\obj\Debug\CapaVista.
 C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaVista\bin\Debug\NavegadorVista.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista_Ventas.csprojAssemblyReference.cache
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista.Clientes.resources
-C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista.Devolucion.resources
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista.Mdi.resources
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista.Pedido.resources
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources

@@ -26,7 +26,7 @@ namespace CapaVista
             navegador1.tabla = dataGridView1;
             navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
-            navegador1.cargar(dataGridView1, Grupotextbox, "poli");
+            navegador1.cargar(dataGridView1, Grupotextbox, "ENTRENADOR");
         }
 
         private void Vendedores_Load(object sender, EventArgs e)

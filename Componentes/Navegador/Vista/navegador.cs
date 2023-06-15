@@ -288,13 +288,10 @@ namespace NavegadorVista
 
         private void btnHelp_Click(object sender, EventArgs e)
         {
-            if (nombreAyuda == "tbl_clientes")
+            
+            if (nombreAyuda == "ENTRENADOR")
             {
-                Help.ShowHelp(this, "C:/Users/Home/Desktop/Repositorio E/proyectois2k23/Codigo/Componentes/Navegador/Vista/bin/Debug/infoAyuda/AyudaCliente.chm", "cliente.html");
-            }
-            if (nombreAyuda == "tbl_vendedores")
-            {
-                Help.ShowHelp(this, "C:/Users/Home/Desktop/Repositorio E/proyectois2k23/Codigo/Componentes/Navegador/Vista/bin/Debug/infoAyuda/AyudaCliente.chm", "vendedores.html");
+                Help.ShowHelp(this, "C:/Users/Home/Desktop/PrototipoISEF2023/PrototipoISEF2023/Componentes/Navegador/Vista/bin/Debug/infoAyuda/AyudaCliente.chm", "vendedores.html");
             }
         }
 

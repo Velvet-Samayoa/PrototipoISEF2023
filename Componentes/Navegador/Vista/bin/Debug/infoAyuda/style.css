@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#tit1 {
+    background: rgba(255, 253, 200, 0.4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align:justify;
+}
+
+#tit2 {
+    background: rgba(255, 253, 200, 0.4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align:center;
+}
+
+.box{
+    width: 500px;
+    background: rgba(255, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 50px;   
+}
+
+
+#menu{
+    margin:auto;
+    width: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+.l1 li a{
+    background-color: rgba(0, 0, 0, .5);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+.l1 > li{
+    float: left;
+}
+
+.l1 li a:hover{
+    background-color: cadetblue;
+}
+
+.l1 li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.l1 li:hover>ul{
+    display: block;
+}
+
+.l1 li ul li{
+    position: relative;
+}
+
+.l1 li ul li ul{
+    right: -140px;
+    top:0px;
+}
+
+#insta{
+    background-color: azure;
+    color: blue;
+    font-family: fantasy;
+}

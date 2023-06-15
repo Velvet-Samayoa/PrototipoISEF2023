@@ -75,7 +75,6 @@ C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
-C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ventas_CapaControlador.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
@@ -110,7 +109,6 @@ C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.pdb
-C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ventas_CapaControlador.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CxPControlador.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
