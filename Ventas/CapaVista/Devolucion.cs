@@ -45,8 +45,8 @@ namespace CapaVista
 
         private void button3_Click(object sender, EventArgs e)
         {
-            AyudaDev ayudad = new AyudaDev("tbl_venta", txtIdVenta, txtIdAlmacen, txtOrden, txtIdProducto);
-            ayudad.Show();
+            //AyudaDev ayudad = new AyudaDev("tbl_venta", txtIdVenta, txtIdAlmacen, txtOrden, txtIdProducto);
+            //ayudad.Show();
         }
 
         private void Devolucion_Load(object sender, EventArgs e)

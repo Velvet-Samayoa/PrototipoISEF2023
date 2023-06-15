@@ -4,3 +4,9 @@ C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\De
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
 C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb

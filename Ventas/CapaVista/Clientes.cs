@@ -39,8 +39,8 @@ namespace CapaVista
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MenuAyudaClientes ayudaClientes = new MenuAyudaClientes();
-            ayudaClientes.Show();
+            //MenuAyudaClientes ayudaClientes = new MenuAyudaClientes();
+            //ayudaClientes.Show();
         }
     }
 }

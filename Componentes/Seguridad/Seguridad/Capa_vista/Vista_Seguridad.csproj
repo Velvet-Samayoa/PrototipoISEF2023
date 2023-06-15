@@ -31,8 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CapaVista">
-      <HintPath>..\..\..\..\Modulos\Ventas\CapaVista\bin\Debug\CapaVista.dll</HintPath>
+    <Reference Include="CapaVista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Ventas\CapaVista\bin\Debug\CapaVista.dll</HintPath>
     </Reference>
     <Reference Include="CPC_Vista">
       <HintPath>..\..\..\..\Modulos\CuentasXCobrar\CPC_Vista\bin\Debug\CPC_Vista.dll</HintPath>

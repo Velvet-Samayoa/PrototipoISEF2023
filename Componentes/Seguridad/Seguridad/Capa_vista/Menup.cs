@@ -21,15 +21,15 @@ namespace Vista_Seguridad
         {
             InitializeComponent();
 
-            Button[] apps = { btnseguridad, btnVentas, btncompras, btnCxC, btnCxP, btnInventario};
+            Button[] apps = { btnseguridad, btnVentas};
             cn.deshabilitarApps(apps);
 
             cn.getAccesoApp(1000, apps[0]);
             cn.getAccesoApp(2000, apps[1]);
-            cn.getAccesoApp(3000, apps[2]);
-            cn.getAccesoApp(4000, apps[3]);
-            cn.getAccesoApp(5000, apps[4]);
-            cn.getAccesoApp(6000, apps[5]);
+           // cn.getAccesoApp(3000, apps[2]);
+            //cn.getAccesoApp(4000, apps[3]);
+            //cn.getAccesoApp(5000, apps[4]);
+            //cn.getAccesoApp(6000, apps[5]);
 
 
 

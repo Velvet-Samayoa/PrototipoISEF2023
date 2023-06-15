@@ -59,12 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AyudaDev.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AyudaDev.Designer.cs">
-      <DependentUpon>AyudaDev.cs</DependentUpon>
-    </Compile>
     <Compile Include="Clientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,12 +70,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ClientesReporte.rpt</DependentUpon>
       <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Cotizacion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Cotizacion.Designer.cs">
-      <DependentUpon>Cotizacion.cs</DependentUpon>
     </Compile>
     <Compile Include="CrystalReport1.cs">
       <AutoGen>True</AutoGen>
@@ -106,24 +94,6 @@
     </Compile>
     <Compile Include="Mdi.Designer.cs">
       <DependentUpon>Mdi.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuAyudaClientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuAyudaClientes.Designer.cs">
-      <DependentUpon>MenuAyudaClientes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuAyudaCotizaciones.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuAyudaCotizaciones.Designer.cs">
-      <DependentUpon>MenuAyudaCotizaciones.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuAyudaVendedores.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuAyudaVendedores.Designer.cs">
-      <DependentUpon>MenuAyudaVendedores.cs</DependentUpon>
     </Compile>
     <Compile Include="Pedido.cs">
       <SubType>Form</SubType>
@@ -157,18 +127,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AyudaDev.resx">
-      <DependentUpon>AyudaDev.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Clientes.resx">
       <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ClientesReporte.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ClientesReporte.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Cotizacion.resx">
-      <DependentUpon>Cotizacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CrystalReport1.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -183,15 +147,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Mdi.resx">
       <DependentUpon>Mdi.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuAyudaClientes.resx">
-      <DependentUpon>MenuAyudaClientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuAyudaCotizaciones.resx">
-      <DependentUpon>MenuAyudaCotizaciones.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuAyudaVendedores.resx">
-      <DependentUpon>MenuAyudaVendedores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pedido.resx">
       <DependentUpon>Pedido.cs</DependentUpon>
