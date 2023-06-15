@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\obj\Debug\Ventas_CapaControlador.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\obj\Debug\Ventas_CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\bin\Debug\Ventas_CapaControlador.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\bin\Debug\Ventas_CapaControlador.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\obj\Debug\Ventas_CapaControlador.csproj.CopyComplete
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\obj\Debug\Ventas_CapaControlador.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\Ventas_CapaControlador\obj\Debug\Ventas_CapaControlador.pdb

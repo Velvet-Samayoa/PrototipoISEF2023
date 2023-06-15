@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb

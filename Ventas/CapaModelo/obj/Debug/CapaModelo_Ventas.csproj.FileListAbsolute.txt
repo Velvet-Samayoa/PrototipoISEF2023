@@ -1,0 +1,6 @@
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\obj\Debug\CapaModelo_Ventas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\obj\Debug\CapaModelo_Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Home\Desktop\FINAL\Codigo\Modulos\Ventas\CapaModelo\obj\Debug\CapaModelo.pdb
