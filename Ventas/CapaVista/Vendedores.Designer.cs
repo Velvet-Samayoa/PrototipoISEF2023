@@ -31,20 +31,20 @@ namespace CapaVista
         {
             this.label1 = new System.Windows.Forms.Label();
             this.navegador1 = new NavegadorVista.Navegador();
-            this.txt_dpi = new System.Windows.Forms.TextBox();
-            this.txt_apellido = new System.Windows.Forms.TextBox();
+            this.txt_nm1 = new System.Windows.Forms.TextBox();
+            this.txt_apellido1 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.txt_nombre = new System.Windows.Forms.TextBox();
+            this.txt_nm2 = new System.Windows.Forms.TextBox();
             this.txt_id = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.txt_estado = new System.Windows.Forms.TextBox();
-            this.txt_nit = new System.Windows.Forms.TextBox();
-            this.txt_edad = new System.Windows.Forms.TextBox();
+            this.txt_apellido2 = new System.Windows.Forms.TextBox();
+            this.txt_fecha = new System.Windows.Forms.TextBox();
+            this.txt_usuario = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -56,34 +56,34 @@ namespace CapaVista
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(278, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(177, 34);
+            this.label1.Size = new System.Drawing.Size(168, 34);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Vendedores";
+            this.label1.Text = "Entrenador";
             // 
             // navegador1
             // 
             this.navegador1.Location = new System.Drawing.Point(63, 58);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(4);
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(576, 154);
             this.navegador1.TabIndex = 4;
             this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
-            // txt_dpi
+            // txt_nm1
             // 
-            this.txt_dpi.Location = new System.Drawing.Point(195, 275);
-            this.txt_dpi.Name = "txt_dpi";
-            this.txt_dpi.Size = new System.Drawing.Size(102, 20);
-            this.txt_dpi.TabIndex = 22;
-            this.txt_dpi.Tag = "Dpi_vendedores";
+            this.txt_nm1.Location = new System.Drawing.Point(195, 275);
+            this.txt_nm1.Name = "txt_nm1";
+            this.txt_nm1.Size = new System.Drawing.Size(102, 20);
+            this.txt_nm1.TabIndex = 22;
+            this.txt_nm1.Tag = "NOMBRE1";
             // 
-            // txt_apellido
+            // txt_apellido1
             // 
-            this.txt_apellido.Location = new System.Drawing.Point(195, 358);
-            this.txt_apellido.Name = "txt_apellido";
-            this.txt_apellido.Size = new System.Drawing.Size(102, 20);
-            this.txt_apellido.TabIndex = 21;
-            this.txt_apellido.Tag = "Apellidos_vendedores";
+            this.txt_apellido1.Location = new System.Drawing.Point(195, 358);
+            this.txt_apellido1.Name = "txt_apellido1";
+            this.txt_apellido1.Size = new System.Drawing.Size(102, 20);
+            this.txt_apellido1.TabIndex = 21;
+            this.txt_apellido1.Tag = "APELLIDO1";
             // 
             // label7
             // 
@@ -92,9 +92,9 @@ namespace CapaVista
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(68, 359);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(62, 16);
+            this.label7.Size = new System.Drawing.Size(74, 16);
             this.label7.TabIndex = 20;
-            this.label7.Text = "Apellido";
+            this.label7.Text = "Apellido 1";
             // 
             // label6
             // 
@@ -103,17 +103,17 @@ namespace CapaVista
             this.label6.ForeColor = System.Drawing.Color.White;
             this.label6.Location = new System.Drawing.Point(68, 276);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(32, 16);
+            this.label6.Size = new System.Drawing.Size(71, 16);
             this.label6.TabIndex = 19;
-            this.label6.Text = "DPI";
+            this.label6.Text = "Nombre 1";
             // 
-            // txt_nombre
+            // txt_nm2
             // 
-            this.txt_nombre.Location = new System.Drawing.Point(195, 319);
-            this.txt_nombre.Name = "txt_nombre";
-            this.txt_nombre.Size = new System.Drawing.Size(102, 20);
-            this.txt_nombre.TabIndex = 18;
-            this.txt_nombre.Tag = "Nombres_vendedores";
+            this.txt_nm2.Location = new System.Drawing.Point(195, 319);
+            this.txt_nm2.Name = "txt_nm2";
+            this.txt_nm2.Size = new System.Drawing.Size(102, 20);
+            this.txt_nm2.TabIndex = 18;
+            this.txt_nm2.Tag = "NOMBRE2";
             // 
             // txt_id
             // 
@@ -121,7 +121,7 @@ namespace CapaVista
             this.txt_id.Name = "txt_id";
             this.txt_id.Size = new System.Drawing.Size(102, 20);
             this.txt_id.TabIndex = 17;
-            this.txt_id.Tag = "Pk_idVendedores";
+            this.txt_id.Tag = "ID_ENTRENADOR";
             // 
             // label5
             // 
@@ -130,9 +130,9 @@ namespace CapaVista
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(68, 239);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(21, 16);
+            this.label5.Size = new System.Drawing.Size(92, 16);
             this.label5.TabIndex = 16;
-            this.label5.Text = "Id";
+            this.label5.Text = "Id entrenador";
             // 
             // label2
             // 
@@ -141,9 +141,9 @@ namespace CapaVista
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(64, 314);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 16);
+            this.label2.Size = new System.Drawing.Size(71, 16);
             this.label2.TabIndex = 15;
-            this.label2.Text = "Nombre";
+            this.label2.Text = "Nombre 2";
             // 
             // label3
             // 
@@ -152,9 +152,9 @@ namespace CapaVista
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(379, 236);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 16);
+            this.label3.Size = new System.Drawing.Size(74, 16);
             this.label3.TabIndex = 23;
-            this.label3.Text = "Id Estado";
+            this.label3.Text = "Apellido 2";
             // 
             // label4
             // 
@@ -163,9 +163,9 @@ namespace CapaVista
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(379, 275);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(27, 16);
+            this.label4.Size = new System.Drawing.Size(121, 16);
             this.label4.TabIndex = 24;
-            this.label4.Text = "Nit";
+            this.label4.Text = "Fecha Nacimiento";
             // 
             // label8
             // 
@@ -174,33 +174,33 @@ namespace CapaVista
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(379, 314);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(40, 16);
+            this.label8.Size = new System.Drawing.Size(74, 16);
             this.label8.TabIndex = 25;
-            this.label8.Text = "Edad";
+            this.label8.Text = "Id Usuario";
             // 
-            // txt_estado
+            // txt_apellido2
             // 
-            this.txt_estado.Location = new System.Drawing.Point(524, 235);
-            this.txt_estado.Name = "txt_estado";
-            this.txt_estado.Size = new System.Drawing.Size(96, 20);
-            this.txt_estado.TabIndex = 26;
-            this.txt_estado.Tag = "Pk_id_estados";
+            this.txt_apellido2.Location = new System.Drawing.Point(524, 235);
+            this.txt_apellido2.Name = "txt_apellido2";
+            this.txt_apellido2.Size = new System.Drawing.Size(96, 20);
+            this.txt_apellido2.TabIndex = 26;
+            this.txt_apellido2.Tag = "APELLIDO2";
             // 
-            // txt_nit
+            // txt_fecha
             // 
-            this.txt_nit.Location = new System.Drawing.Point(524, 276);
-            this.txt_nit.Name = "txt_nit";
-            this.txt_nit.Size = new System.Drawing.Size(96, 20);
-            this.txt_nit.TabIndex = 27;
-            this.txt_nit.Tag = "nit_vendedores";
+            this.txt_fecha.Location = new System.Drawing.Point(524, 276);
+            this.txt_fecha.Name = "txt_fecha";
+            this.txt_fecha.Size = new System.Drawing.Size(96, 20);
+            this.txt_fecha.TabIndex = 27;
+            this.txt_fecha.Tag = "FECHA_NACIMIENTO";
             // 
-            // txt_edad
+            // txt_usuario
             // 
-            this.txt_edad.Location = new System.Drawing.Point(524, 319);
-            this.txt_edad.Name = "txt_edad";
-            this.txt_edad.Size = new System.Drawing.Size(96, 20);
-            this.txt_edad.TabIndex = 28;
-            this.txt_edad.Tag = "edad_vendedores";
+            this.txt_usuario.Location = new System.Drawing.Point(524, 319);
+            this.txt_usuario.Name = "txt_usuario";
+            this.txt_usuario.Size = new System.Drawing.Size(96, 20);
+            this.txt_usuario.TabIndex = 28;
+            this.txt_usuario.Tag = "ID_USUARIO_FK";
             // 
             // dataGridView1
             // 
@@ -210,32 +210,32 @@ namespace CapaVista
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(650, 221);
             this.dataGridView1.TabIndex = 29;
-            this.dataGridView1.Tag = "tbl_vendedores";
+            this.dataGridView1.Tag = "entrenador";
             // 
             // Vendedores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(709, 609);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.txt_edad);
-            this.Controls.Add(this.txt_nit);
-            this.Controls.Add(this.txt_estado);
+            this.Controls.Add(this.txt_usuario);
+            this.Controls.Add(this.txt_fecha);
+            this.Controls.Add(this.txt_apellido2);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.txt_dpi);
-            this.Controls.Add(this.txt_apellido);
+            this.Controls.Add(this.txt_nm1);
+            this.Controls.Add(this.txt_apellido1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.txt_nombre);
+            this.Controls.Add(this.txt_nm2);
             this.Controls.Add(this.txt_id);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.navegador1);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Vendedores";
             this.Text = "Vendedores";
             this.Load += new System.EventHandler(this.Vendedores_Load);
@@ -249,20 +249,20 @@ namespace CapaVista
 
         private System.Windows.Forms.Label label1;
         private NavegadorVista.Navegador navegador1;
-        private System.Windows.Forms.TextBox txt_dpi;
-        private System.Windows.Forms.TextBox txt_apellido;
+        private System.Windows.Forms.TextBox txt_nm1;
+        private System.Windows.Forms.TextBox txt_apellido1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox txt_nombre;
+        private System.Windows.Forms.TextBox txt_nm2;
         private System.Windows.Forms.TextBox txt_id;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox txt_estado;
-        private System.Windows.Forms.TextBox txt_nit;
-        private System.Windows.Forms.TextBox txt_edad;
+        private System.Windows.Forms.TextBox txt_apellido2;
+        private System.Windows.Forms.TextBox txt_fecha;
+        private System.Windows.Forms.TextBox txt_usuario;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }

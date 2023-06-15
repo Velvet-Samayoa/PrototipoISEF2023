@@ -47,7 +47,7 @@ namespace Vista_Seguridad
         {
             CapaVista.Mdi ventas = new CapaVista.Mdi();
             ventas.Show();
-            cn.setBtitacora("2000", "Ingreso Ventas");
+            cn.setBtitacora("2000", "Ingreso Polideportivo");
         }
         //Método que ingresa un valor a la bitacora de acuerdo el módulo
         private void btnLogout_Click_1(object sender, EventArgs e)

@@ -20,13 +20,13 @@ namespace CapaVista
         private void navegador1_Load(object sender, EventArgs e)
         {
             NavegadorVista.Navegador.idApp = "2001";
-            TextBox[] Grupotextbox = { txt_id, txt_dpi, txt_nombre, txt_apellido, txt_estado, txt_nit, txt_edad };
-            TextBox[] Idtextbox = { txt_id, txt_dpi };
+            TextBox[] Grupotextbox = { txt_id, txt_nm1, txt_nm2, txt_apellido1, txt_apellido2, txt_fecha, txt_usuario };
+            TextBox[] Idtextbox = { txt_id, txt_nm1 };
             navegador1.textbox = Grupotextbox;
             navegador1.tabla = dataGridView1;
             navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
-            navegador1.cargar(dataGridView1, Grupotextbox, "sig");
+            navegador1.cargar(dataGridView1, Grupotextbox, "poli");
         }
 
         private void Vendedores_Load(object sender, EventArgs e)

@@ -122,3 +122,4 @@ C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\bin\D
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\bin\Debug\Capa_Modelo.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\bin\Debug\CapaModeloReporteria.pdb
 C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\obj\Debug\CapaVista_Ventas.csproj.CopyComplete
+C:\Users\Home\Desktop\PrototipoISEF2023\PrototipoISEF2023\Ventas\CapaVista\bin\Debug\NavegadorVista.dll
